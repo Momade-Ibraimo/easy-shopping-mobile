@@ -18,28 +18,5 @@ Google Fonts
 Media Queries
 Conceitos Praticados
 
-Durante o desenvolvimento deste projeto foram aplicados conceitos como:
-
-Estruturação semântica com HTML
-Posicionamento de elementos com CSS
-Responsividade utilizando Media Queries
-Organização visual de componentes
-Hierarquia de informações
-Efeitos Hover e Active
-Boas práticas de Front-End
-Responsividade
-
-O projeto foi desenvolvido para funcionar corretamente em:
-
-Desktop
-Smartphones
-Tablets
-
-Objetivo
-
-Este projeto foi criado com o objetivo de praticar:
-Desenvolvimento de interfaces responsivas
-Construção de landing pages
-Organização de layouts modernos
-Adaptação de telas para diferentes dispositivos
-Aprimoramento das habilidades em HTML e CSS
+## Links:
+- Projeto:https://momade-ibraimo.github.io/easy-shopping-mobile/
